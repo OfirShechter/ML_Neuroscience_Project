@@ -1,1 +1,1 @@
-# ML_Neuroscience_Poject
+# ML_Neuroscience_Project
